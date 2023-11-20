@@ -1,160 +1,75 @@
+Cluster -1
+----------
+afternoon coffee
+crispy stuffing coated chicken breasts
+spicy honey chicken
+naan chicken sandwich
+prayer bars
+goody bars
+white bean and chickpea salad
+algerian chicken   chickpea soup   chorba   shorba
+rosemary parmesan coins
+patty s french onion soup
+lime water
+blueberry turnovers
+eggs a la goldenrod
+my own spicy sweet noodle kugel
+leanne morgan s chicken casserole via paula deen
+healthy spicy black bean cakes with guacamole
+mediterranean shrimp
+vanessa s low glycemic load strawberry shortcake
+caribbean cassis
+tgi friday s sex on the beach
 
-min_samples=10
-Number of clusters: 4
-Cluster sizes: [3081 5986   13   20]
 
-min_samples=11
-Number of clusters: 4
-Cluster sizes: [3119 5949   13   19]
 
-min_samples=12
-Number of clusters: 4
-Cluster sizes: [3159 5910   13   18]
+Cluster 0
+----------
+light italian zucchini crescent pie
+best ever butter cookies
+coconut mocha cake
+dr  cookie peanut butter squares
+rocky mountain cookies  no bake
+creamy baked eggs
+tangy orange cake
+m m cream cheese bars
+olive feta and rosemary muffins
+gingersnap cookies
+easy cherry pie filling crisp
+texas brown sugar pound cake
+airy chocolate coconut cream pie
+moist chocolate bundt cake
+raspberry pecan bars
+lemon and yogurt cake   simple and best
+super tamale pie
+wonderful cheesecake   cake  not pie
+delicious carrot jumbo muffins
+yogurt marmalade cake
 
-min_samples=13
-Number of clusters: 4
-Cluster sizes: [3234 5835   13   18]
 
-min_samples=14
-Number of clusters: 6
-Cluster sizes: [3295 5747   15   13   18   12]
 
-min_samples=15
-Number of clusters: 6
-Cluster sizes: [3344 5698   15   13   18   12]
+Cluster 1
+----------
+strawberry and broccoli salad
+chicken with creamy tarragon dijon sauce
+family favorite salad dressing
+chicken quesadillas with fruit salsa and avocado cream
+a different seven layer salad
+mixed baby greens with creamy dressing
+herb marinated tomato salad with basil
+spicy black bean spinach salad
+shells  warm chicken salad
+chinese crunch salad
+mixed green salad with honey orange dressing
+green jacket salad dressing
+ramen cabbage salad
+potato salad with olives and peppers
+minted orzo and zucchini salad
+radicchio and endive salad
+chicken salad sandwiches en casserole
+citrus and pomegranate beef salad
+incredible salad dressing
+cold tomato   cheese salad
 
-min_samples=16
-Number of clusters: 3
-Cluster sizes: [3434 5648   18]
 
-min_samples=17
-Number of clusters: 3
-Cluster sizes: [3460 5623   17]
 
-min_samples=18
-Number of clusters: 3
-Cluster sizes: [3513 5570   17]
-
-min_samples=19
-Number of clusters: 3
-Cluster sizes: [3562 5496   42]
-
-min_samples=20
-Number of clusters: 3
-Cluster sizes: [3613 5446   41]
-
-min_samples=21
-Number of clusters: 4
-Cluster sizes: [3664 5377   41   18]
-
-min_samples=22
-Number of clusters: 4
-Cluster sizes: [3696 5345   41   18]
-
-min_samples=23
-Number of clusters: 3
-Cluster sizes: [3767 5292   41]
-
-min_samples=24
-Number of clusters: 3
-Cluster sizes: [3810 5249   41]
-
-min_samples=25
-Number of clusters: 3
-Cluster sizes: [3829 5231   40]
-
-min_samples=26
-Number of clusters: 3
-Cluster sizes: [3854 5206   40]
-
-min_samples=27
-Number of clusters: 3
-Cluster sizes: [3884 5176   40]
-
-min_samples=28
-Number of clusters: 3
-Cluster sizes: [3932 5129   39]
-
-min_samples=29
-Number of clusters: 3
-Cluster sizes: [3964 5097   39]
-
-min_samples=30
-Number of clusters: 3
-Cluster sizes: [3975 5086   39]
-
-min_samples=31
-Number of clusters: 3
-Cluster sizes: [4005 5057   38]
-
-min_samples=32
-Number of clusters: 3
-Cluster sizes: [4039 5023   38]
-
-min_samples=33
-Number of clusters: 2
-Cluster sizes: [4089 5011]
-
-min_samples=34
-Number of clusters: 2
-Cluster sizes: [4106 4994]
-
-min_samples=35
-Number of clusters: 2
-Cluster sizes: [4122 4978]
-
-min_samples=36
-Number of clusters: 2
-Cluster sizes: [4148 4952]
-
-min_samples=37
-Number of clusters: 2
-Cluster sizes: [4175 4925]
-
-min_samples=38
-Number of clusters: 2
-Cluster sizes: [4198 4902]
-
-min_samples=39
-Number of clusters: 2
-Cluster sizes: [4227 4873]
-
-min_samples=40
-Number of clusters: 2
-Cluster sizes: [4258 4842]
-
-min_samples=41
-Number of clusters: 2
-Cluster sizes: [4278 4822]
-
-min_samples=42
-Number of clusters: 2
-Cluster sizes: [4281 4819]
-
-min_samples=43
-Number of clusters: 2
-Cluster sizes: [4306 4794]
-
-min_samples=44
-Number of clusters: 2
-Cluster sizes: [4322 4778]
-
-min_samples=45
-Number of clusters: 2
-Cluster sizes: [4342 4758]
-
-min_samples=46
-Number of clusters: 2
-Cluster sizes: [4364 4736]
-
-min_samples=47
-Number of clusters: 2
-Cluster sizes: [4379 4721]
-
-min_samples=48
-Number of clusters: 2
-Cluster sizes: [4390 4710]
-
-min_samples=49
-Number of clusters: 2
-Cluster sizes: [4405 4695]
